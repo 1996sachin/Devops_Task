@@ -14,7 +14,7 @@ App: http://localhost:3000
 Prometheus: http://localhost:9090
 Grafana: http://localhost:3001 (Login: admin / admin)
 
-<img src="https://github.com/user-attachments/assets/f971d51a-88f6-4edb-ab1b-d7db874e1946" alt="deploy sh" width="100%">
+https://github.com/user-attachments/assets/f971d51a-88f6-4edb-ab1b-d7db874e1946
 
 ## Monitoring / Logging Stack Used
 Prometheus + Grafana
