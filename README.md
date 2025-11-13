@@ -26,7 +26,7 @@ CPU & memory usage
 
 App uptime
 
-<img width="1919" height="1005" alt="data_source" src="https://github.com/user-attachments/assets/9164af21-2a9e-4804-a215-0ddc25dc001a"/>
+<img src="https://github.com/user-attachments/assets/9164af21-2a9e-4804-a215-0ddc25dc001a" width="60%" height="60%" alt="data_source"/>
 <img width="1919" height="1005" alt="grafana" src="https://github.com/user-attachments/assets/16152a52-dc73-44f4-8f4b-58f55fd95628"/>
 <img width="1916" height="851" alt="prometheus" src="https://github.com/user-attachments/assets/12b85b43-c48f-481a-a555-01680ce1a89c"/>
 <img width="1919" height="1005" alt="promet" src="https://github.com/user-attachments/assets/2c82512d-96fb-4ba7-b9e1-4614222fad95"/>
